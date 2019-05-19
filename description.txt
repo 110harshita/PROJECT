@@ -1,0 +1,5 @@
+1.	Data from website to the data frame using web scraping technique of python .
+2.	Data frame to the CSV(format ) data file using the pandas package in python.
+3.	From CSV data file to modified CSV data file making the data more sequential ,for the ease at the time of data analysis.
+4.	From modified CSV data file to the database using sql server and python connectivity via pypyodbc module in python.
+5.	From the data base to the local host.
