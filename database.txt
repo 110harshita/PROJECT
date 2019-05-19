@@ -1,0 +1,3 @@
+for the database, use SQL management studio
+1.create the new database
+2.create a table with columns namely SR_NO, SENSOR, MEASUREMENT, UNIT, STATION_ID, DATE_TIME
